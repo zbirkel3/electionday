@@ -6,8 +6,9 @@
 		
 		<title>Election Day 2012</title>
 	</head>
-	<header><h1>ELECTION DAY</h1></header>
+	
 	<body>
+		<header><h1>ELECTION DAY</h1></header>
 		<form class="form-horizontal" action="process_vote.php" method="post">
 			<div class="control-group">
 				<label class="control-label" for="name">Name </label>
